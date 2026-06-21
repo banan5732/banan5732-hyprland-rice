@@ -17,7 +17,6 @@ My first hyprland rice using noctalia shell for panel instead of waybar
 | Panel      | Quickshell|
 | Launcher   | Fuzzel    |
 | File mgr   | Thunar    |
-| Panel      | Noctalia  |
 
 ## Star History
 
@@ -28,4 +27,6 @@ My first hyprland rice using noctalia shell for panel instead of waybar
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=banan5732/banan5732-hyprland-rice&type=date&legend=top-left" />
  </picture>
 </a>
-no stars :(
+
+
+leave a star plz
