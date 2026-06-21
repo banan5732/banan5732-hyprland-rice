@@ -20,6 +20,7 @@ My first hyprland rice using noctalia shell for panel instead of waybar
 
 ## Star History
 
+## Star History
 <a href="https://www.star-history.com/?repos=banan5732%2Fbanan5732-hyprland-rice&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=banan5732/banan5732-hyprland-rice&type=date&theme=dark&legend=top-left" />
@@ -27,6 +28,5 @@ My first hyprland rice using noctalia shell for panel instead of waybar
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=banan5732/banan5732-hyprland-rice&type=date&legend=top-left" />
  </picture>
 </a>
-
 
 leave a star plz
