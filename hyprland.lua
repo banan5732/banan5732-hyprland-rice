@@ -63,7 +63,8 @@ hl.exec_cmd("hyprctl setcursor Remus")
 hl.env("XCURSOR_SIZE", "24")
 hl.env("HYPRCURSOR_SIZE", "24")
 hl.env("HYPRCURSOR_THEME", "Remus")
--- Оновлення оточення D-Bus для роботи PipeWire та порталів при запуску
+
+-- Setting up Dbus and Pipewire to work at start
 hl.exec_cmd("dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=Hyprland")
 hl.exec_cmd("systemctl --user start hyprland-session.target")
 
