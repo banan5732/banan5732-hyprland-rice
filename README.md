@@ -17,6 +17,7 @@ My first hyprland rice using noctalia shell for panel instead of waybar
 | Panel      | Quickshell|
 | Launcher   | Fuzzel    |
 | File mgr   | Thunar    |
+| Emoji picker | Rofi-emoji |
 
 ## Star History
 <a href="https://www.star-history.com/?repos=banan5732%2Fbanan5732-hyprland-rice&type=date&legend=top-left">
