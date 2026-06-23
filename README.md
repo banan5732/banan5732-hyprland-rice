@@ -1,11 +1,6 @@
 
 
 https://github.com/user-attachments/assets/2f963741-bb94-40b3-a3a7-fa0a33fabe0b
-    ____  ____  __________________    ___________
-   / __ \/ __ \/_  __/ ____/  _/ /   / ____/ ___/
-  / / / / / / / / / / /_   / // /   / __/  \__ \
- / /_/ / /_/ / / / / __/ _/ // /___/ /___ ___/ /
-/_____/\____/ /_/ /_/   /___/_____/_____//____/
 
 # WARNING!! THESE DOTS ARE NOT INSLLABLE, THIS IS JUST SHOWCASE
 
