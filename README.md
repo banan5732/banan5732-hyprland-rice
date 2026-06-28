@@ -29,3 +29,7 @@ My first hyprland rice using noctalia shell for panel instead of waybar
 </a>
 
 leave a star plz
+
+
+i also changed my distro yesterday to NixOS (June 28 2026) but im tooo lazy to update the video in repo, just i case, everything works the same
+i use NixOS btw
