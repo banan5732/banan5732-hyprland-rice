@@ -12,7 +12,7 @@ My first hyprland rice using noctalia shell for panel instead of waybar
 
 | App        | Program   |
 |------------|-----------|
-| Browser    | Helium    |
+| Browser    | Chromium  |
 | Terminal   | Ghostty   |
 | Panel      | Quickshell|
 | Launcher   | Fuzzel    |
