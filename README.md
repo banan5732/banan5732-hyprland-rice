@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/2f963741-bb94-40b3-a3a7-fa0a33fabe0b
 
-# ⚠️WARNING THESE DOTS ARE NOT INSLLABLE, THIS IS JUST SHOWCASE
+# ⚠️WARNING THESE DOTS ARE NOT INSTALLABLE, THIS IS JUST SHOWCASE
 # If you want old hyprland animations, copy my animations config
 
 
@@ -14,7 +14,7 @@ My first hyprland rice using noctalia shell for panel instead of waybar
 
 | App        | Program   |
 |------------|-----------|
-| Browser    | Chromium  |
+| Browser    | Helium  |
 | Terminal   | Ghostty   |
 | Panel      | Quickshell|
 | Launcher   | Fuzzel    |
@@ -70,4 +70,4 @@ leave a star plz
 
 
 i also changed my distro yesterday to NixOS (June 28 2026) but im tooo lazy to update the video in repo, just i case, everything works the same
-i use NixOS btw
+i use NixOS btw <--- (UPDATE) NixOS is TRASH, i went back to EndeavourOS (best distro) after 3 days, i consider that as skill issue
